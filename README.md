@@ -201,4 +201,4 @@ GhidraMCP可以集成到您现有的分析工作流中：
 
 ---
 
-*GhidraMCP与NSA或Ghidra项目无关，也未得到其认可。*
+*GhidraMCP与NSA和Ghidra项目无关，也未得到其认可。*
